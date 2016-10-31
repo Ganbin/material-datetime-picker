@@ -449,9 +449,7 @@ $primary: #00bcd4;
 }
 
 .c-datepicker__clock__minutes {
-  visibility: hidden;
   transform: translateY(30px) scale(0.6);
-  opacity: 0;
 }
 
 .c-datepicker__clock__hours {
